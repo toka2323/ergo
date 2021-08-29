@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,kBACI,iBAAkB,CAClB,aACJ","file":"main.125c8bc4.chunk.css","sourcesContent":[".spin {text-align: center; margin-top: 3%;}\n.ergo-title {\n    text-align: center;\n    margin-top: 3%;\n}"]}
